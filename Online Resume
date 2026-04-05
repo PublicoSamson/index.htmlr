@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+
+    <h1>Samson David Publico</h1>
+    <P>samsonpublico@gmail.com</P>
+    <P>09109414576</P>
+    <P>Malagasang 1-F Imus,Cavite</P>
+
+<hr>
+
+    <h2>OBJECTIVES</h2>
+    <p>To gain valuable experience and develop skills in a professional environment.
+Seeking an entry-level position to apply my knowledge and grow within the company.
+And To apply my ICT skills in troubleshooting, networking, and system support to improve company performance.</p>
+
+<hr>
+
+<h3 style="font-size: large;">EDUCATIONAL ATTAINMENT</h3>
+<P style="font-size: large;">College: Unida Christian Colleges</P>
+<P style="font-size: large;">Senior High School:  Unida Christian Colleges</P>
+<P style="font-size: large;">Junior High School: Tomas Mascardo National High School</P>
+<P style="font-size: large;">Elementary: Malagasang 1-F</P>
+
+<hr>
+
+<h4 style="font-size: large;">MAJOR ACHIEVEMENTS</h4>
+<P style="font-size: large;">JUNIOR HIGH SCHOOL</P>
+<p style="font-size: ;">SENIOR HIGH SCHOOL</p>
+
+<hr>
+
+<h5 style="font-size: large;">ADDITIONAL SKILLS</h5>
+<ul>
+<li>Multitasking</li>
+<li>Web Development (HTML,CSS)</li>
+<li>Time Management</li>
+<li>Self Motivation</li>
+<li>Communication Skills</li>
+
+</ul>
+</htm
